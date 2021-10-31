@@ -1,0 +1,15 @@
+/Users/saofmott/Desktop/Projetos/Facens/EngSoftJogoPatosCSharp/JogoPatos/bin/Debug/net5.0/JogoPatos.deps.json
+/Users/saofmott/Desktop/Projetos/Facens/EngSoftJogoPatosCSharp/JogoPatos/bin/Debug/net5.0/JogoPatos.runtimeconfig.json
+/Users/saofmott/Desktop/Projetos/Facens/EngSoftJogoPatosCSharp/JogoPatos/bin/Debug/net5.0/JogoPatos.runtimeconfig.dev.json
+/Users/saofmott/Desktop/Projetos/Facens/EngSoftJogoPatosCSharp/JogoPatos/bin/Debug/net5.0/JogoPatos.dll
+/Users/saofmott/Desktop/Projetos/Facens/EngSoftJogoPatosCSharp/JogoPatos/bin/Debug/net5.0/ref/JogoPatos.dll
+/Users/saofmott/Desktop/Projetos/Facens/EngSoftJogoPatosCSharp/JogoPatos/bin/Debug/net5.0/JogoPatos.pdb
+/Users/saofmott/Desktop/Projetos/Facens/EngSoftJogoPatosCSharp/JogoPatos/obj/Debug/net5.0/JogoPatos.csproj.AssemblyReference.cache
+/Users/saofmott/Desktop/Projetos/Facens/EngSoftJogoPatosCSharp/JogoPatos/obj/Debug/net5.0/JogoPatos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saofmott/Desktop/Projetos/Facens/EngSoftJogoPatosCSharp/JogoPatos/obj/Debug/net5.0/JogoPatos.AssemblyInfoInputs.cache
+/Users/saofmott/Desktop/Projetos/Facens/EngSoftJogoPatosCSharp/JogoPatos/obj/Debug/net5.0/JogoPatos.AssemblyInfo.cs
+/Users/saofmott/Desktop/Projetos/Facens/EngSoftJogoPatosCSharp/JogoPatos/obj/Debug/net5.0/JogoPatos.csproj.CoreCompileInputs.cache
+/Users/saofmott/Desktop/Projetos/Facens/EngSoftJogoPatosCSharp/JogoPatos/obj/Debug/net5.0/JogoPatos.dll
+/Users/saofmott/Desktop/Projetos/Facens/EngSoftJogoPatosCSharp/JogoPatos/obj/Debug/net5.0/ref/JogoPatos.dll
+/Users/saofmott/Desktop/Projetos/Facens/EngSoftJogoPatosCSharp/JogoPatos/obj/Debug/net5.0/JogoPatos.pdb
+/Users/saofmott/Desktop/Projetos/Facens/EngSoftJogoPatosCSharp/JogoPatos/obj/Debug/net5.0/JogoPatos.genruntimeconfig.cache
